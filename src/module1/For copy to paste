@@ -1,0 +1,3 @@
+    public static void main(String[] Args){
+        Scanner in = new Scanner(System.in);
+    }
