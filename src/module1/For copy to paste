@@ -1,3 +1,7 @@
     public static void main(String[] Args){
         Scanner in = new Scanner(System.in);
     }
+
+
+
+    System.out.println(Long.toBinaryString(flipBit(1, value)));
