@@ -5,3 +5,14 @@
 
 
     System.out.println(Long.toBinaryString(flipBit(1, value)));
+
+
+
+            Scanner in = new Scanner(System.in);
+            String a = (in.nextLine());
+            String[] nuA = a.split(" ");
+            String f = nuA[0];
+            int f1 = Integer.parseInt(f.trim());
+            String g = nuA[1];
+            int g1 = Integer.parseInt(g.trim());
+            System.out.println(f1+" "+g1);
