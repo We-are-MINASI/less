@@ -1,8 +1,8 @@
-package com.company;
+package module1;
 
 import java.util.Scanner;
 
-public class Main {
+public class less2_2_1 {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
