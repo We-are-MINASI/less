@@ -11,9 +11,12 @@ public class less4_1_3 {
         int f1 = Integer.parseInt(f.trim());
         String g = nuA[1];
         int g1 = Integer.parseInt(g.trim());
-        System.out.println(f1+" "+g1);
         Integer.toBinaryString(f1);
-        int b=(1<<g1);
+        int b=(1<<g1), c=f1^b;
+        if(c<f1){
+            System.out.println(f1);
+        }else{System.out.println(c);}
     }
 }
 //int b = 0, c = Integer.parseInt(a.trim());
+//System.out.println(f1+" "+g1);

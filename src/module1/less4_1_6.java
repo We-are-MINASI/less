@@ -11,7 +11,7 @@ public class less4_1_6 {
             i++;
             d=(d<<1);
         }
-        if(a==2 || a==4){System.out.println(c);} else {System.out.println(d);}
+        if(a==2 || a==4 || a==1){System.out.println(c);} else {System.out.println(d);}
     }
 }
 //int b = 0, c = Integer.parseInt(a.trim());
