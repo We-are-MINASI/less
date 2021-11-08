@@ -30,35 +30,9 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.less7_1_3">
-    <configuration name="less5_1_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module1.less5_1_5" />
-      <module name="less" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="module1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="less5_1_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module1.less5_1_6" />
-      <module name="less" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="module1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="less7_1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="module1.less7_1_1" />
+  <component name="RunManager" selected="Application.less8_1_4">
+    <configuration name="less7_1_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module1.less7_1_10" />
       <module name="less" />
       <extension name="coverage">
         <pattern>
@@ -96,13 +70,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="less8_1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module1.less8_1_3" />
+      <module name="less" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="less8_1_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="module1.less8_1_4" />
+      <module name="less" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="module1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.less8_1_4" />
+        <item itemvalue="Application.less8_1_3" />
+        <item itemvalue="Application.less7_1_10" />
         <item itemvalue="Application.less7_1_3" />
         <item itemvalue="Application.less7_1_2" />
-        <item itemvalue="Application.less7_1_1" />
-        <item itemvalue="Application.less5_1_6" />
-        <item itemvalue="Application.less5_1_5" />
       </list>
     </recent_temporary>
   </component>
