@@ -2,7 +2,7 @@ package module1;
 
 import java.util.Scanner;
 
-public class less5_2_5 {
+public class less5_2_9 {
     public static void main(String[] Args){
         Scanner in = new Scanner(System.in);
         String a = (in.nextLine());
