@@ -16,3 +16,6 @@
             String g = nuA[1];
             int g1 = Integer.parseInt(g.trim());
             System.out.println(f1+" "+g1);
+
+
+//System.out.println("In short: " + (n == (short)n ? "yes" : "no"));
